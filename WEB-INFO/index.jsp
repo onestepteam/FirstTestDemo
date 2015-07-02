@@ -1,6 +1,6 @@
-onestepteam/oneTest
+onestepteam/FirstTestDemo
 
-HTTPS->	https://github.com/onestepteam/oneTest.git
-SSH->	git@github.com:onestepteam/oneTest.git
+SSH->	git@github.com:onestepteam/FirstTestDemo.git
+HTTPS->	https://github.com/onestepteam/FirstTestDemo.git
 
 write
